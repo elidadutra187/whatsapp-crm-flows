@@ -1,8 +1,22 @@
-<p align="center">
+<div align="center">
   <strong>φ</strong>
-</p>
+  <h1>WhatsApp CRM Flows</h1>
+  <p><em>Ready-to-use WhatsApp CRM flow templates for e-commerce automation</em></p>
+  <p>
+    <a href="https://github.com/elidadutra187/whatsapp-crm-flows">Repository</a> ·
+    <a href="https://github.com/elidadutra187">GitHub Profile</a>
+  </p>
+</div>
 
-# WhatsApp CRM Flows
+
+## Positioning
+
+This repository is part of the `φ` portfolio by [Élida Dutra](https://github.com/elidadutra187), focused on practical systems for e-commerce, automation, analytics, content generation and growth operations.
+
+**Repository:** [elidadutra187/whatsapp-crm-flows](https://github.com/elidadutra187/whatsapp-crm-flows)  
+**GitHub:** [https://github.com/elidadutra187](https://github.com/elidadutra187)  
+**Purpose:** Ready-to-use WhatsApp CRM flow templates for e-commerce automation
+
 
 > Ready-to-use WhatsApp CRM flow templates for e-commerce automation
 
@@ -218,3 +232,10 @@ MIT
   <strong>φ</strong><br>
   <em>Building intelligent systems at the intersection of marketing, data, and AI</em>
 </p>
+
+<div align="center">
+  <strong>φ</strong>
+  <br />
+  <sub>Built and maintained by <a href="https://github.com/elidadutra187">Élida Dutra</a>.</sub>
+</div>
+
